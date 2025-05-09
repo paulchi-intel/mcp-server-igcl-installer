@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+.venv
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.bak
+*.tmp
+
+# VSCode
+.vscode/
+
+# Executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# Config
+*.swp
+*.swo
+*.db
+*.sqlite3
+
+# Others
+.DS_Store
+.idea/
+my_prompt_cursor.txt 

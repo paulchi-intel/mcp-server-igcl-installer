@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "igcl": {
+      "command": "C:\\mcp_server_igcl\\server-igcl.exe",
+      "args": [
+        "-n","developer-server",
+        "-l","C:\\mcp_server_igcl\\logs",
+        "-p","C:\\mcp_server_igcl\\plugins"
+      ] 
+    }
+  }
+}
