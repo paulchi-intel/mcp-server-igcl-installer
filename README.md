@@ -10,6 +10,10 @@
 
 這份指南將引導您完成MCP Server的安裝和配置過程。這是一個概念驗證（PoC），並未完全實作IGCL的所有功能，且是使用IGCL 0.95版開發的。
 
+### 演示影片
+
+觀看[示範影片](demo_video_usage.mp4)以了解完整的安裝和使用流程。
+
 ## 系統需求
 
 - 作業系統：Windows 10 或更新版本
@@ -20,7 +24,7 @@
 
 1. 下載、安裝並登入 Claude Desktop [下載連結](https://claude.ai/download)
 2. 將 "mcp_server_igcl" 資料夾複製到 C:\ (或其他位置)
-3. 點擊左上角的 漢堡選單 / 檔案 / 設定... / 開發者 / 編輯配置
+3. 點擊Claude Desktop左上角的 漢堡選單 / 檔案 / 設定... / 開發者 / 編輯配置
 4. 開啟並編輯 "claude_desktop_config.json"，將路徑更改為 "mcp_server_igcl" 所在位置。
 5. 重啟設備並重新啟動 Claude Desktop。
 
@@ -40,6 +44,10 @@
 
 This guide will walk you through the installation and configuration of the MCP Server. This is a Proof of Concept (PoC) and does not fully implement all IGCL features. It was developed using IGCL version 0.95.
 
+### Demo Video
+
+Watch the [demonstration video](demo_video_usage.mp4) to understand the complete installation and usage process.
+
 ## System Requirements
 
 - Operating System: Windows 10 or later
@@ -50,7 +58,7 @@ This guide will walk you through the installation and configuration of the MCP S
 
 1. Download, install, and login to Claude Desktop [Download Link](https://claude.ai/download)
 2. Copy the "mcp_server_igcl" folder to C:\ (or any other location)
-3. At upper-left corner, click Hamburger Menu / File / Settings... / Developer / Edit Config
+3. At upper-left corner of Claude Desktop, click Hamburger Menu / File / Settings... / Developer / Edit Config
 4. Open and edit "claude_desktop_config.json", change the path to where "mcp_server_igcl" is located.
 5. Reboot the device and launch Claude Desktop again.
 
